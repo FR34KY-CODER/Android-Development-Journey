@@ -22,7 +22,7 @@ This project is my **first fully functional Android application**, built in **An
 
 ## 📽️ App Demo
 
-[![App Demo](https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/Screenshot%202025-06-05%20174843.png)](https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/App_showcase.mp4)
+[![App Demo](https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/Screenshot%202025-06-05%20174843.png)](https://streamable.com/5mwy4c)
 
 > 🔗 Click the image above to watch the full demo video of the app!
 
