@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FullyFucntionalApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="bottomAppBarStyle">@style/Widget.MaterialComponents.BottomAppBar</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.FAB.Round" parent="">
+        <item name="cornerSize">50%</item>  <!-- Makes it a perfect circle -->
+    </style>
+    <style name="Theme.FullyFucntionalApp" parent="Base.Theme.FullyFucntionalApp" />
+</resources>
