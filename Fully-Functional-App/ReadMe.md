@@ -22,12 +22,9 @@ This project is my **first fully functional Android application**, built in **An
 
 ## 📽️ App Demo
 
-> Watch the full app showcase below:
+[![App Demo](https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/Screenshot%202025-06-05%20174843.png)](https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/App_showcase.mp4)
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/App_showcase.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+> 🔗 Click the image above to watch the full demo video of the app!
 
 ---
 
