@@ -12,11 +12,11 @@ This project is my **first fully functional Android application**, built in **An
 
 - ✅ **3-Page Navigation** using explicit and implicit intents
 - 🎨 Use of **all major Android UI components**
-- 🔄 Functional elements like **input fields, radio buttons, checkboxes, spinners, switches, images, etc.**
+- 🔄 Functional elements like **input fields, layouts, images, containers etc.**
 - 📤 Multiple **implicit intents**: calling, web browsing, email, etc.
 - ⚙️ Clean structure ideal for beginner-to-intermediate Android devs
 
-> This project was part of my Android Development journey under GDSC and helped me gain confidence in building responsive, modular apps.
+> This project was part of my Android Development journey helped me gain confidence in building responsive, modular apps.
 
 ---
 
@@ -24,7 +24,10 @@ This project is my **first fully functional Android application**, built in **An
 
 > Watch the full app showcase below:
 
-<video src="https://github.com/FR34KY-CODER/Android-Development-Journey/blob/main/Fully-Functional-App/App_showcase.mp4?raw=true" controls width="100%"></video>
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/FR34KY-CODER/Android-Development-Journey/main/Fully-Functional-App/App_showcase.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
