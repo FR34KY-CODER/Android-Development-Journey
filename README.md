@@ -2,7 +2,7 @@
 # 📱 Android Development Journey 🚀
 
 Welcome to my **Android Development Journey**! This repository is a timeline of the apps, features, and concepts I've explored while learning Android Development using **Kotlin** and **Jetpack Compose / XML** via **Android Studio**.
-<p align=center>https://camo.githubusercontent.com/ce033f45065c0ee7700450789e1b0a7a3a09978e759aca939fea22ec9eed14da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3133474967724764736c44396f512f67697068792e676966</p>
+<p align=center><img src="https://camo.githubusercontent.com/ce033f45065c0ee7700450789e1b0a7a3a09978e759aca939fea22ec9eed14da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3133474967724764736c44396f512f67697068792e676966"></p>
 
 ---
 
