@@ -1,6 +1,8 @@
 # 🎬 Android Netflix-Style Movie App
+---
 
 A full-fledged Netflix-inspired Android app built with modern Kotlin and Jetpack components, featuring Firebase authentication and TMDB API integration.
+
 ---
 
 ## ✨ Features
@@ -42,7 +44,7 @@ A full-fledged Netflix-inspired Android app built with modern Kotlin and Jetpack
    ```bash
    git clone https://github.com/yourusername/netflix-style-app.git
    ```
-2.Set up Firebase
+2. Set up Firebase
  - Create a Firebase project at Firebase Console
  - Enable Authentication (Email/Password method)
  - Enable Realtime Database
@@ -106,23 +108,20 @@ Contributions are welcome! Please follow these steps:
 ---
 
 📝 TODO (Future Enhancements)
-Add bottom navigation like Netflix
 
-Implement user profiles with images
-
-Add video trailers playback
-
-Introduce offline caching
-
-Add favorites/watchlist functionality
+ - Add bottom navigation like Netflix
+ - Implement user profiles with images
+ - Add video trailers playback
+ - Introduce offline caching
+ - Add favorites/watchlist functionality
 
 ---
 
 🙏 Acknowledgments
 TMDB for their awesome API
-
 Firebase for backend services
-
 Jetpack libraries for making Android development easier
+
+---
 
 Built with ❤️ by FR34KY-CODER
