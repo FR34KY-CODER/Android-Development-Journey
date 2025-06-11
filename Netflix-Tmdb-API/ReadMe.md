@@ -60,7 +60,7 @@ A full-fledged Netflix-inspired Android app built with modern Kotlin and Jetpack
 
 ---
 
-##📂 Project Structure
+## 📂 Project Structure
 ```bash
 netflix-style-app/
 ├── app/
@@ -97,7 +97,7 @@ netflix-style-app/
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
  - Fork the project
  - Create your feature branch ```bash git checkout -b feature/AmazingFeature ```
@@ -107,7 +107,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-📝 TODO (Future Enhancements)
+## 📝 TODO (Future Enhancements)
 
  - Add bottom navigation like Netflix
  - Implement user profiles with images
@@ -117,10 +117,10 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-🙏 Acknowledgments
-TMDB for their awesome API
-Firebase for backend services
-Jetpack libraries for making Android development easier
+## 🙏 Acknowledgments
+ - TMDB for their awesome API
+ - Firebase for backend services
+ - Jetpack libraries for making Android development easier
 
 ---
 
